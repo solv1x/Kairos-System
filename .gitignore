@@ -1,6 +1,10 @@
 ## Build results
 bin/
 obj/
+publish/
+
+## Published single-file executable
+KairosSystem.exe
 
 ## Visual Studio / Rider
 .vs/
